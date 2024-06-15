@@ -1,5 +1,9 @@
 README:
 
+Implementation of the data vault model is an efficient method of designing data warehouses for an enterprise to enhance the processes of data analysis and business intelligence
+that result in better functioning and development of the enterprise. In this project, a data vault model has been implemented with three layers namely, a staging layer, an enterprise layer, and an information layer. This data vault has been built with the aid of two provided neuroimaging datasets. The skeleton of the data vault was created and data from both datasets were parsed and populated into the database thereby creating a data warehouse. When queried, the data vault model retrieves the data from the data warehouse and provides the user with the required results that include visualized data. This project aims to store, visualize, and retrieve neuroimaging data by implementing the data vault 2.0 methodology.
+
+
 (i)Pre-requisities:
 	Kindly install the following software and dependencies before running the code:
 
